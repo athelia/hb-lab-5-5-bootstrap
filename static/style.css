@@ -1,0 +1,11 @@
+nav.bg-green {
+    background-color: #acc265
+}
+
+a.white-text .nav-link{
+    color:white
+}
+
+a.black-text .navbar-brand {
+    color:black
+}
